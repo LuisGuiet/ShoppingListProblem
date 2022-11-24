@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingListProblem", "\coll-fs4\GUI202201133$\Computing\Unit01\Lesson 16\ShoppingListProblem\ShoppingListProblem\ShoppingListProblem.csproj", "{5ED0BBB0-13E4-4D54-B8C7-E7CA9F59EE0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ED0BBB0-13E4-4D54-B8C7-E7CA9F59EE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED0BBB0-13E4-4D54-B8C7-E7CA9F59EE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED0BBB0-13E4-4D54-B8C7-E7CA9F59EE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED0BBB0-13E4-4D54-B8C7-E7CA9F59EE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F33BA658-FA9B-4DF7-AE59-914131EC59BC}
+	EndGlobalSection
+EndGlobal
